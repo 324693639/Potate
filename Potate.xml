@@ -14,7 +14,7 @@
         </value>
         <next>
           <block type="oled_drawtext" id="48">
-            <field name="TEXT">idk he doesnt like me but i got mad skills with changing minds</field>
+            <field name="TEXT">no dancing is for losers</field>
           </block>
         </next>
       </block>
